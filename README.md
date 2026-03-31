@@ -1,9 +1,9 @@
 # hai
-I made this thingy from the tutorial for Stasis
-I added the skip pause and play buttons in the code
-i added a key chain and a label to the buttons in my cad
+This is the spotify Screen display thing
+it shows twhat im listening too and allows me to skip/rewqind and pause/play :)
+it also has the Kendrick Lamar crown of thorns on it, my favorite music artist.
 
 # cad
 images
-<img width="869" height="758" alt="image" src="https://github.com/user-attachments/assets/8d9f91e8-b0e9-4444-b353-38a2e0825827" />
-<img width="781" height="670" alt="image" src="https://github.com/user-attachments/assets/2ca966e1-0c1c-4380-855e-2ea127e0b779" />
+<img width="765" height="613" alt="image" src="https://github.com/user-attachments/assets/2b691065-17cd-4e3b-b8aa-7ad7969b406e" />
+
